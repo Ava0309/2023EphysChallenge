@@ -4,6 +4,8 @@
 - pytorch
 - matplotlib
 - numpy
+- pennylane
+- tensorflow
 
 **開發所使用到的作業系統**:
 macOS Sonoma 14.1
