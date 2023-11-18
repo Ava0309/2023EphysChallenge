@@ -8,7 +8,7 @@
 - tensorflow
 
 **作業系統**:
-macOS Sonoma 14.1
+- macOS Sonoma 14.1
 
 **硬體設備**:
 - **Processor** : 2 GHz Quad-Core Intel Core i5
