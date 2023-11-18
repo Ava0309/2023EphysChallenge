@@ -1,13 +1,13 @@
 # 2023EphysChallenge
 
-**使用到的 Package**:
+**Package**:
 - pytorch
 - matplotlib
 - numpy
 - pennylane
 - tensorflow
 
-**開發所使用到的作業系統**:
+**作業系統**:
 macOS Sonoma 14.1
 
 **硬體設備**:
